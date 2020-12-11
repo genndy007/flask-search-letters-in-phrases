@@ -16,6 +16,8 @@ python3 main.py
 
 How to use
 ------------
-App runs at localhost:5000
-Use url entry '/entry' to request 
+App runs at localhost:5000              
+Use url entry '/entry' to request             
+Or ignore any paths because it works automatically :)
+ 
 
